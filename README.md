@@ -11,3 +11,5 @@ This is a code repository of a JS based ChatGPT web app. This application is dep
 
 ### Credits
 This project is adapted from a tutorial from [JavaScript Mastery](https://github.com/adrianhajdin).
+
+#####END#####
